@@ -1,6 +1,6 @@
 # Record Builder
 
-![alt text](<WhatsApp Image 2025-12-30 at 20.36.53.jpeg>)
+![alt text](<record-builder.jpeg>)
 
 ## What is a Record?
 
