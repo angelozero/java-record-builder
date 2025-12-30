@@ -3,7 +3,6 @@
 ![alt text](<record-builder.jpeg>)
 
 ## What is a Record?
-
 Record is a special class wich acts as a transporter of immutable data. If you need a class only to hold values ( like a DTO or a coordinator pair ), the Record does this in a compact way, automatically generating methods `equals()`, `hashCode()`, `toString()` and the `getters`.
 
 Was officially introduced as a stable functionality in Java 16. Came through [JEP 395](https://openjdk.org/jeps/395).
