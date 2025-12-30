@@ -1,5 +1,7 @@
 # Record Builder
 
+![alt text](<WhatsApp Image 2025-12-30 at 20.36.53.jpeg>)
+
 ## What is a Record?
 
 Record is a special class wich acts as a transporter of immutable data. If you need a class only to hold values ( like a DTO or a coordinator pair ), the Record does this in a compact way, automatically generating methods `equals()`, `hashCode()`, `toString()` and the `getters`.
@@ -175,3 +177,11 @@ P5 - name: Java id: 4
 P6 - name: Java is cool! id: 4
 P7 - name: Java is cool! id: 25
 ```
+## Info
+**Thanks for**
+- [Java Records and Builder pattern For Record - by sunimal malkakulage](https://medium.com/@sskmal/java-records-6736f45a6aa7)
+- [Spring Tips: Useful Annotation Processors - by SpringDeveloper](https://www.youtube.com/watch?v=wAW2OpBKpvw)
+- [Github Randgalt - record-builder](https://github.com/Randgalt/record-builder)
+
+**You can find all the code from this article here**
+- [Github AngeloZero - java-record-builder](https://github.com/angelozero/java-record-builder)
